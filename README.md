@@ -2,7 +2,7 @@
 
 [Graphics engine library for 2D/3D 'libsparkling'](https://github.com/microlayer)
 
-[Computer Vision and Image processing tool 'ElliCV'](https://github.com/tschuebel/tschuebel)
+[Computer Vision and Image processing tool 'elli-cv'](https://github.com/tschuebel/tschuebel)
 
 ## Lecture Notes
 
