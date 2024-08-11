@@ -7,7 +7,7 @@
 ## Lecture Notes
 
 - [Render Pipeline](https://github.com/microlayer/libsparkling/wiki)  
-  - [Projection Matrix](ttps://github.com/microlayer/libsparkling/wiki): Details on the derivation of the projection matrix.
+  - [Projection Matrix](https://github.com/microlayer/libsparkling/wiki): Details on the derivation of the projection matrix.
 
 - [Computer Vision](https://github.com/tschuebel/tschuebel)
   - [Convolution](https://github.com/tschuebel/tschuebel): Details on how convolution in image processing works.  
