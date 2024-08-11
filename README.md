@@ -7,7 +7,7 @@
 ## Lecture Notes
 
 - [Render Pipeline](https://github.com/microlayer/libsparkling/wiki)  
-  - [Projection Matrix](ttps://github.com/microlayer/libsparkling/wiki)
+  - [Projection Matrix](https://github.com/microlayer/libsparkling/wiki)
 
 - [Computer Vision](https://github.com/tschuebel/tschuebel)
   - [Convolution](https://github.com/tschuebel/tschuebel)   
