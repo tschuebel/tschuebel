@@ -10,6 +10,7 @@
   - [Projection Matrix](ttps://github.com/microlayer/libsparkling/wiki)
 
 - [Computer Vision](https://github.com/tschuebel/tschuebel)
+  - [Convolution](https://github.com/tschuebel/tschuebel)   
 
 <!--
 **tschuebel/tschuebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
