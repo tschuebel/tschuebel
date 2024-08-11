@@ -1,16 +1,16 @@
 # Projects
 
-[Graphics engine library for 2D/3D 'libsparkling'](https://github.com/microlayer)
+[Graphics engine library for 2D/3D 'libsparkling'](https://github.com/microlayer): A comprehensive library designed for rendering 2D and 3D graphics which can runs on Windows, Browser, Android, Linux and Mac.
 
-[Computer Vision and Image processing tool 'elli-cv'](https://github.com/tschuebel/tschuebel)
+[Computer Vision and Image processing tool 'elli-cv'](https://github.com/tschuebel/tschuebel): A toolkit for various computer vision and image processing tasks.
 
 ## Lecture Notes
 
 - [Render Pipeline](https://github.com/microlayer/libsparkling/wiki)  
-  - [Projection Matrix](https://github.com/microlayer/libsparkling/wiki)
+  - [Projection Matrix](ttps://github.com/microlayer/libsparkling/wiki): Details on the derivation of the projection matrix.
 
 - [Computer Vision](https://github.com/tschuebel/tschuebel)
-  - [Convolution](https://github.com/tschuebel/tschuebel)   
+  - [Convolution](https://github.com/tschuebel/tschuebel): Details on how convolution in image processing works.  
 
 <!--
 **tschuebel/tschuebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
