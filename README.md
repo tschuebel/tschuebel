@@ -1,8 +1,8 @@
 # Projects
 
-[Graphics engine library for 2D/3D 'libsparkling'](https://github.com/microlayer): A comprehensive library designed for rendering 2D and 3D graphics which can runs on Windows, Browser, Android, Linux and Mac.
+[libsparkling](https://github.com/microlayer): A comprehensive library designed for rendering 2D and 3D graphics which can runs on Windows, Browser, Android, Linux and Mac.
 
-[Computer Vision and Image processing tool 'elli-cv'](https://github.com/tschuebel/tschuebel): A toolkit for various computer vision and image processing tasks.
+[elli-cv](https://github.com/tschuebel/tschuebel): A toolkit for various computer vision and image processing tasks.
 
 ## Lecture Notes
 
