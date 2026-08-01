@@ -2,8 +2,6 @@
 
 [libsparkling](https://github.com/microlayer): A comprehensive library designed for rendering 2D and 3D graphics which can runs on Windows, Browser, Android, Linux and Mac.
 
-[elli-cv](https://github.com/tschuebel/tschuebel): A toolkit for various computer vision and image processing tasks.
-
 ## Tools
 
 [GlyphPack](https://github.com/tschuebel/tschuebel): Exports TrueType fonts so they can be used as bitmap fonts.
