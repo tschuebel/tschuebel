@@ -1,6 +1,6 @@
 # Projects
 
-[libsparkling](https://github.com/microlayer): A comprehensive library designed for rendering 2D and 3D graphics which can runs on Windows, Browser, Android, Linux and Mac.
+[libsparkling](https://github.com/microlayer): A comprehensive library designed for rendering 2D and 3D graphics that runs on Windows, macOS, Linux, Android, and web browsers.
 
 ## Tools
 
